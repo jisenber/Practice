@@ -1,0 +1,16 @@
+{
+  "name": "lab-07",
+  "version": "1.0.0",
+  "description": "lab-07 codefellows assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "jacob isenberg",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "gulp": "^3.9.1"
+  }
+}
